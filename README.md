@@ -8,4 +8,4 @@ Vectorizer Text data using tfidfVectorizer scores
 
 Dimensionality Reduction using HashingVectorizer
 
-FeatureExtraction From Python Dictionary
+Feature Extraction From Python Dictionary
